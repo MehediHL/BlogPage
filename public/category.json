@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "All",
+    "slug": "all"
+  },
+  {
+    "id": 2,
+    "name": "Web Development",
+    "slug": "web-development"
+  },
+  {
+    "id": 3,
+    "name": "Artificial Intelligence",
+    "slug": "artificial-intelligence"
+  },
+  {
+    "id": 4,
+    "name": "JavaScript",
+    "slug": "javascript"
+  },
+  {
+    "id": 5,
+    "name": "React",
+    "slug": "react"
+  },
+  {
+    "id": 6,
+    "name": "Web Design",
+    "slug": "web-design"
+  },
+  {
+    "id": 7,
+    "name": "Backend Development",
+    "slug": "backend-development"
+  },
+  {
+    "id": 8,
+    "name": "Programming",
+    "slug": "programming"
+  },
+  {
+    "id": 9,
+    "name": "UI/UX",
+    "slug": "ui-ux"
+  },
+  {
+    "id": 10,
+    "name": "Career",
+    "slug": "career"
+  },
+  {
+    "id": 11,
+    "name": "Database",
+    "slug": "database"
+  },
+  {
+    "id": 12,
+    "name": "API",
+    "slug": "api"
+  }
+]
