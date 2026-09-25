@@ -1,16 +1,100 @@
-# React + Vite
+# 📝 React Blog Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple **single-page blog website** built with **React.js** for practice and learning purposes.
 
-Currently, two official plugins are available:
+This project was created to practice the core concepts of React such as **Components, Props, State, useEffect, JSON data fetching, event handling, and responsive UI design**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+> ⚠️ This is a practice project, not a complete blog application. The project may contain mistakes, incomplete implementations, or areas that can be improved.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Demo
 
-## Expanding the Oxlint configuration
+🔗 **Live Website:**  
+https://stellar-starburst-891a44.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 📌 About The Project
+
+This is a simple single-page blog-style website developed using React.js.
+
+The main purpose of this project is to practice and understand how different React concepts work together in a real UI.
+
+There is no backend, authentication system, database, or complex functionality in this project.
+
+The website mainly focuses on practicing React fundamentals and creating a responsive user interface.
+
+---
+
+## ⚛️ React Concepts Practiced
+
+| Concept | Usage |
+|---|---|
+| ⚛️ React Components | Building the UI using reusable components |
+| 📦 Props | Passing data between components |
+| 🔄 State | Managing component data and UI changes |
+| ⚡ useEffect | Handling side effects and data fetching |
+| 📡 JSON Data Fetching | Fetching and displaying blog-related data |
+| 🖱️ Event Handling | Handling user interactions |
+| 🔁 Array Mapping | Dynamically displaying data |
+| 🎨 Responsive Design | Making the page responsive for different devices |
+
+---
+
+## ✨ Project Highlights
+
+- 📄 Single-page blog UI
+- ⚛️ Built with React.js
+- 📦 Uses Props
+- 🔄 Uses State
+- ⚡ Uses `useEffect`
+- 📡 Fetches data from JSON
+- 🔁 Dynamically renders data
+- 📱 Mobile responsive
+- 💻 Desktop responsive
+- 🧩 Component-based structure
+- 🚀 Deployed on Netlify
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| ⚛️ React.js | Building the user interface |
+| 🟨 JavaScript | Application logic |
+| 🎨 CSS / Tailwind CSS | Styling and responsive design |
+| 🧩 React Icons | Icons |
+| 📄 JSON | Blog and category data |
+| 🚀 Netlify | Deployment |
+
+---
+
+## 📱 Responsive Design
+
+The website is responsive and designed to work on different screen sizes.
+
+It has been tested and designed for:
+
+- 📱 Mobile
+- 📱 Tablet
+- 💻 Laptop
+- 🖥️ Desktop
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│
+├── assets/
+│
+├── components/
+│
+├── data/
+│
+├── App.js
+├── index.js
+└── ...
